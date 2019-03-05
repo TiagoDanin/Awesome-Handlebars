@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [Helpers](#plugins)
+- [Helpers](#helpers)
 - [Libraries](#libraries)
 
 ## Helpers
